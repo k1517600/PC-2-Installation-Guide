@@ -14,10 +14,7 @@ ____________________________________________________________
 2. Server
 3. pc2v9.ini Configuration
 4. Administrator
-5. Team
-6. Problems & Judging
-7. Common Issues
-8. Contact Us
+5. Starting the contest
 _________________________________________________________
 
 # Guide
@@ -115,17 +112,28 @@ Once the Add dialogue pops up, you'll see some fields. Here's what all of them d
 - Answer Files
   Judges have provided answer file - Whether or not the judge object for the program will provide an answer file. 
 
-Those are the basics of 
+Those are the basics of problems. More information on problems can be found in the official guide, linked at the top.
+
+### 4.4 Judgements ###
+
+Judges are both the automatic and manual form of grading problems. There's no better way to put it than the official guide does, so I will insert an excerpt here:
+
+  "PC2 uses the term “judgments” to refer to the possible responses which a judge (human or
+  automated) can apply to a run submitted by a team. The Judgments Tab under the Configure Contest
+  tab on the Administrator main screen shows all the judgments available. The set of judgment
+  messages can be viewed, added, edited and deleted."
+
+## 5. Starting your contest ##
+
+  To start your contest, go to the "Times" panel on the admin window and look at the site that you're operating on. Simply click on it and press "Start", and the competition will start, allowing team members to see their problems and submit. If you want to edit a contest's length, click the "Edit" button and change accordingly.
 
 
+## 6. Contact us ##
 
+If you need any help working anything, here are some contacts:
 
+Alrighty#8890
 
+This Github page (Preferred)
 
-
-
-
-
-
-
-
+K1517600@students.katyisd.org
