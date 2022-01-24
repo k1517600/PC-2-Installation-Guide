@@ -110,25 +110,33 @@ Once the Add dialogue pops up, you'll see some fields. Here's what all of them d
   Team Reads From - Whether the problem will read input from a STDIN input stream (Such as System.in) or from a Data File
 
 - Answer Files
-  Judges have provided answer file - Whether or not the judge object for the program will provide an answer file. 
+  Judges have provided answer file - Whether or not the judge object for the program will provide an answer file. An answer file is a simple .dat with the expected output of the program.
 
-Those are the basics of problems. More information on problems can be found in the official guide, linked at the top.
+On the judging tab, you can set whether or not the problem is to be manually or automatically graded. In our case, turn on automatically.
 
-### 4.4 Judgements ###
+### 4.4 Judges ###
 
-Judges are both the automatic and manual form of grading problems. There's no better way to put it than the official guide does, so I will insert an excerpt here:
+Judges are both the automatic and manual form of grading problems. They're very simple to set up. Go to the judge tab of the administrator panel. You'll see a singular judge from when we generated accounts before. Edit this judge by clicking on it and selecting "edit". Make sure it can auto judge by ticking the checkbox next to "Auto judge".
 
-  "PC2 uses the term “judgments” to refer to the possible responses which a judge (human or
-  automated) can apply to a run submitted by a team. The Judgments Tab under the Configure Contest
-  tab on the Administrator main screen shows all the judgments available. The set of judgment
-  messages can be viewed, added, edited and deleted."
+Judges will judge the program based off of the answer file provided earlier when making the problem. The team member will compile the code and send it to the judges, who will check if their output matches the answer file. If so, they get a point.
+
+### 4.5 Languages ###
+
+The language that the competition allows its users to use. In our case, this will be Java. This will only work if you correctly configured the installation as instructed in step 1.
 
 ## 5. Starting your contest ##
 
   To start your contest, go to the "Times" panel on the admin window and look at the site that you're operating on. Simply click on it and press "Start", and the competition will start, allowing team members to see their problems and submit. If you want to edit a contest's length, click the "Edit" button and change accordingly.
 
 
-## 6. Contact us ##
+## 6. Judge Panel ##
+
+This just needs to be run so auto-judging can begin, but here's a few things it can do.
+
+**Runs** View all submitted runs from the team members
+**Bored** play a game if you're bored
+
+## 7. Contact us ##
 
 If you need any help working anything, here are some contacts:
 
@@ -137,3 +145,11 @@ Alrighty#8890
 This Github page (Preferred)
 
 K1517600@students.katyisd.org
+
+
+# Appendix #
+
+**3.1**: Finding your IP: 
+
+Go to the control panel on your device. Click the greene text that reads "Network and Internet". Then click the green text that says "Network and Sharing Center". On the right side of the screen, there will be blue text that says your internet's name or ethernet. Click on it and then click the small text that says "Details". Near the top, you'll see something that says "IPv4 Address". This is what you want.
+
