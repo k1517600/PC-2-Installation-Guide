@@ -15,6 +15,8 @@ ____________________________________________________________
 3. pc2v9.ini Configuration
 4. Administrator
 5. Starting the contest
+6. Judging Panel
+7. Contact Us
 _________________________________________________________
 
 # Guide
