@@ -13,10 +13,18 @@ ____________________________________________________________
 1. Download and Set-Up 
 2. Server
 3. pc2v9.ini Configuration
-4. Administrator
+4. Administrator Panel
+  4.1. Logging In
+  4.2. Generating Accounts
+  4.3. Problems
+  4.4. Judges
+  4.5. Languages
 5. Starting the contest
 6. Judging Panel
 7. Contact Us
+
+## Appendix
+ 3.1. Finding your IP
 _________________________________________________________
 
 # Guide
@@ -133,7 +141,7 @@ The language that the competition allows its users to use. In our case, this wil
 
 ## 6. Judge Panel ##
 
-This just needs to be run so auto-judging can begin, but here's a few things it can do.
+This just needs to be run so auto-judging can begin, but here's a few things it can do. Assuming you followed the steps above, you'll already have generated at least one judge account. Log in with whatever username and password it has, default is judge1 judge1. Once this panel is opened, it will turn on autojudging, assuming you followed the steps above.
 
 **Runs** View all submitted runs from the team members
 **Bored** play a game if you're bored
