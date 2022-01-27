@@ -3,7 +3,7 @@ Installation Guide for a Single-Site WAN/LAN PC^2 system
 
 
 
-This guide is going to thoroughly teach you how to install the PC^2 System on your PC. This guide assumes the computers are connected on the same network either through LAN or WAN. You should also have a valid administrator account. If performed on a JHS school computer, use the login "JHSC010" with the password "password".
+This guide is going to thoroughly teach you how to install the PC^2 System on your PC. This guide assumes the computers are connected on the same network either through LAN or WAN. You should also have a valid administrator account. If performed on a JHS school computer, use the login "JHSCS010" with the password "password".
 
 This guide will be split into multiple parts which can be found in the table of contents below. 
 ____________________________________________________________
